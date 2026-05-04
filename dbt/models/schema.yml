@@ -1,0 +1,202 @@
+version: 2
+
+models:
+  - name: stg_usaspending
+    description: >
+      Cleaned and typed federal contract award records from the USASpending.gov API.
+      Covers IT and consulting NAICS codes for fiscal year 2024.
+    columns:
+      - name: recipient_name
+        description: Legal name of the company that received the federal award.
+        tests:
+          - not_null
+      - name: award_amount
+        description: Dollar value of the federal contract award cast to float.
+        tests:
+          - not_null
+      - name: awarding_agency
+        description: Federal agency that issued the contract.
+      - name: state_code
+        description: Two-character US state code for the place of performance.
+        tests:
+          - accepted_values:
+              values: [
+                'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA',
+                'HI','ID','IL','IN','IA','KS','KY','LA','ME','MD',
+                'MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ',
+                'NM','NY','NC','ND','OH','OK','OR','PA','RI','SC',
+                'SD','TN','TX','UT','VT','VA','WA','WV','WI','WY',
+                'DC','PR','GU','VI','AS','MP'
+              ]
+              config:
+                severity: warn
+      - name: award_id
+        description: Unique identifier for the award.
+        tests:
+          - not_null
+          - unique
+      - name: start_date
+        description: Contract start date.
+      - name: naics_code
+        description: NAICS industry code. Nullable.
+
+  - name: stg_sec_filings
+    description: >
+      Parsed SEC EDGAR 8-K filings for software, SaaS, AI, and cloud computing
+      companies filed between 2024-01-01 and 2024-12-31.
+    columns:
+      - name: company_name
+        description: Extracted company name, stripped of ticker and CIK.
+        tests:
+          - not_null
+      - name: display_name_raw
+        description: Raw display name string from SEC EDGAR.
+        tests:
+          - not_null
+      - name: ticker
+        description: Stock ticker symbol. Nullable.
+      - name: cik
+        description: SEC Central Index Key. Nullable.
+      - name: file_date
+        description: Date the 8-K was filed.
+        tests:
+          - not_null
+      - name: biz_location
+        description: Business location string from SEC EDGAR. Nullable.
+      - name: state_code
+        description: US state abbreviation for the company's registered state. Nullable.
+      - name: sic_code
+        description: Standard Industrial Classification code. Nullable.
+      - name: items
+        description: JSON array of 8-K item numbers reported.
+
+  - name: stg_bls_jobs
+    description: >
+      BLS JOLTS job openings time series for 2023–2024 across four industry sectors.
+    columns:
+      - name: series_id
+        description: BLS series identifier.
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - JTS510000000000000JOL
+                - JTS540000000000000JOL
+                - JTS520000000000000JOL
+                - JTS000000000000000JOL
+      - name: industry
+        description: Human-readable industry name mapped from series_id.
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - Information Technology
+                - Professional and Business Services
+                - Finance and Insurance
+                - Total Nonfarm
+      - name: year
+        description: Four-digit year of the data point cast to integer.
+        tests:
+          - not_null
+      - name: period
+        description: BLS period code (e.g. M01 for January).
+        tests:
+          - not_null
+      - name: period_name
+        description: Full month name for the period.
+        tests:
+          - not_null
+      - name: job_openings
+        description: Number of job openings (in thousands) for the period.
+        tests:
+          - not_null
+      - name: year_month
+        description: Derived YYYY-MM string for time-series ordering.
+        tests:
+          - not_null
+
+  - name: int_company_signals
+    description: >
+      Intermediate model joining SEC filings with USASpending awards and BLS sector
+      job opening averages into a unified company signal record.
+    columns:
+      - name: company_name
+        description: Company name from SEC EDGAR filings.
+        tests:
+          - not_null
+      - name: ticker
+        description: Stock ticker symbol. Nullable.
+      - name: cik
+        description: SEC Central Index Key. Nullable.
+      - name: file_date
+        description: Date of the most recent 8-K filing.
+        tests:
+          - not_null
+      - name: biz_location
+        description: Business location string. Nullable.
+      - name: state_code
+        description: US state abbreviation. Nullable.
+      - name: sic_code
+        description: SIC code. Nullable.
+      - name: federal_award_amount
+        description: Total federal contract award amount matched to this company. Defaults to 0.
+        tests:
+          - not_null
+      - name: award_id
+        description: Matched award ID from USASpending. Empty string if no match.
+      - name: awarding_agency
+        description: Federal agency that issued the matched award. Nullable.
+      - name: sector_avg_job_openings
+        description: Average monthly job openings for the Information Technology sector.
+
+  - name: mart_intent_scores
+    description: >
+      Final mart table scoring each company's GTM intent on a 0–100 scale based on
+      federal award amount, filing recency, and sector job demand. Materialized as a
+      table and ordered by total_intent_score descending.
+    columns:
+      - name: company_name
+        description: Company name.
+        tests:
+          - not_null
+      - name: total_intent_score
+        description: Composite intent score (0–100) summed from three sub-scores.
+        tests:
+          - not_null
+      - name: intent_tier
+        description: Categorical bucket derived from total_intent_score.
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - High
+                - Medium
+                - Low
+      - name: award_score
+        description: Score component (0/10/25/40) based on federal award amount.
+        tests:
+          - not_null
+          - accepted_values:
+              values: [0, 10, 25, 40]
+      - name: recency_score
+        description: Score component (0/10/20/30) based on days since 8-K filing.
+        tests:
+          - not_null
+          - accepted_values:
+              values: [0, 10, 20, 30]
+      - name: sector_demand_score
+        description: Score component (0/10/20/30) based on sector average job openings.
+        tests:
+          - not_null
+          - accepted_values:
+              values: [0, 10, 20, 30]
+      - name: scored_at
+        description: Timestamp when the intent score was computed.
+        tests:
+          - not_null
+      - name: federal_award_amount
+        description: Federal contract award amount used in scoring.
+      - name: file_date
+        description: Date of the 8-K filing used for recency scoring.
+      - name: sector_avg_job_openings
+        description: Average job openings used for sector demand scoring.

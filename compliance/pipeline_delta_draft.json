@@ -1,0 +1,57 @@
+{
+  "delta": {
+    "as_of": "2026-05-03T09:27:31.262569+00:00",
+    "prev_snapshot_date": "2026-05-03T09:23:46.185412+00:00",
+    "added_deals": [
+      {
+        "deal_id": "323594510012",
+        "name": "Tempus AI, Inc. \u2014 GTM Intelligence",
+        "stage": "appointmentscheduled",
+        "acv": 125545.9,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/323594510012"
+      },
+      {
+        "deal_id": "323682727634",
+        "name": "Amgen Inc. \u2014 GTM Intelligence",
+        "stage": "appointmentscheduled",
+        "acv": 26408.67,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/323682727634"
+      },
+      {
+        "deal_id": "323709360885",
+        "name": "Vir Biotechnology, Inc. \u2014 GTM Intelligence",
+        "stage": "appointmentscheduled",
+        "acv": 658678.04,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/323709360885"
+      },
+      {
+        "deal_id": "323719109356",
+        "name": "CRA International, Inc. \u2014 GTM Intelligence",
+        "stage": "appointmentscheduled",
+        "acv": 16080.46,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/323719109356"
+      }
+    ],
+    "removed_deals": [],
+    "stage_changes": [],
+    "stage_summary": [
+      {
+        "stage": "Appointment Scheduled",
+        "stage_key": "appointmentscheduled",
+        "prev_count": 0,
+        "curr_count": 4,
+        "count_delta": 4,
+        "prev_value": 0.0,
+        "curr_value": 826713.07,
+        "value_delta": 826713.07
+      }
+    ],
+    "total_deals_prev": 0,
+    "total_deals_curr": 4,
+    "total_value_prev": 0,
+    "total_value_curr": 826713.07,
+    "acv_delta": 826713.07
+  },
+  "narrative": "Our pipeline has experienced a significant increase of 826,713 in total value over the past week, primarily driven by the addition of four new deals in the \"Appointment Scheduled\" stage. These new deals, valued at a combined 826,713, come from notable accounts such as Tempus AI, Inc. and Vir Biotechnology, Inc. This growth is a positive indicator for our sales performance, but we should continue to monitor the pipeline closely to ensure sustained momentum.",
+  "generated_at": "2026-05-03T09:27:31.262569+00:00"
+}

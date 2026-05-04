@@ -1,0 +1,39 @@
+{
+  "snapshot_date": "2026-05-03T09:27:31.262569+00:00",
+  "stages": {
+    "appointmentscheduled": {
+      "count": 4,
+      "total_value": 826713.0700000001,
+      "deal_ids": [
+        "323682727634",
+        "323719109356",
+        "323709360885",
+        "323594510012"
+      ]
+    }
+  },
+  "deals": {
+    "323682727634": {
+      "name": "Amgen Inc. \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 26408.67
+    },
+    "323719109356": {
+      "name": "CRA International, Inc. \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 16080.46
+    },
+    "323709360885": {
+      "name": "Vir Biotechnology, Inc. \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 658678.04
+    },
+    "323594510012": {
+      "name": "Tempus AI, Inc. \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 125545.9
+    }
+  },
+  "total_deals": 4,
+  "total_value": 826713.07
+}

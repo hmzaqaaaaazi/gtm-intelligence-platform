@@ -1,0 +1,38 @@
+name: MQL Compliance Check
+
+on:
+  schedule:
+    - cron: '0 9 * * 1-5'   # 9 AM UTC, Monday–Friday
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: gtm-intelligence-platform
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run MQL compliance check
+        run: python -m compliance.mql_compliance
+        env:
+          HUBSPOT_ACCESS_TOKEN: ${{ secrets.HUBSPOT_ACCESS_TOKEN }}
+          HUBSPOT_PORTAL_ID:    ${{ secrets.HUBSPOT_PORTAL_ID }}
+          SLACK_WEBHOOK_URL:    ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Upload MQL log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mql-compliance-log-${{ github.run_id }}
+          path: gtm-intelligence-platform/compliance/mql_log.json
+          if-no-files-found: ignore

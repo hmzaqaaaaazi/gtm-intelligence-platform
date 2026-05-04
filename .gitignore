@@ -1,0 +1,34 @@
+# Pipeline cache (large API response dumps)
+.pipeline_cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pythonlibs/
+.cache/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+dbt/logs/
+
+# Compliance run logs (appended each run, not version-controlled)
+compliance/mql_log.json
+compliance/stale_deals_log.json
+
+# SEC / BLS / USASpending raw API cache files
+.sec_*.json
+.adsh_*.json
+.bls_*.json
+.usa_*.json
+
+# dbt artifacts (generated, not source)
+dbt/target/
+dbt/.user.yml

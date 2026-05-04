@@ -1,0 +1,24 @@
+version: '3.8'
+services:
+  pipeline:
+    build: .
+    env_file: .env
+    command: python -m orchestration.pipeline
+
+  ingestion:
+    build: .
+    env_file: .env
+    command: python -m orchestration.pipeline ingest
+
+  dbt:
+    image: ghcr.io/dbt-labs/dbt-snowflake:1.7.0
+    env_file: .env
+    volumes:
+      - ./dbt:/usr/app/dbt
+    working_dir: /usr/app/dbt
+    command: dbt run --profiles-dir /usr/app/dbt
+
+  compliance:
+    build: .
+    env_file: .env
+    command: python -m compliance.pipeline_delta

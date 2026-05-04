@@ -1,0 +1,18 @@
+gtm_intelligence:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE') }}"
+      database: GTM_INTELLIGENCE
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE') }}"
+      schema: STAGING
+      threads: 4
+      connect_timeout: 30
+      connect_retries: 0
+      client_session_keep_alive: false
+      reuse_connections: false
+      platform_detection_timeout_seconds: 0.0

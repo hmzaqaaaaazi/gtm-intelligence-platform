@@ -1,0 +1,11 @@
+requests
+snowflake-connector-python
+python-dateutil
+pandas
+groq
+langchain
+langgraph
+langchain-community
+langchain-groq
+hubspot-api-client
+python-dotenv

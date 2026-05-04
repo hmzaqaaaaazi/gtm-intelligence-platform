@@ -1,0 +1,38 @@
+name: Stale Deal Alert
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 8 AM UTC daily
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: gtm-intelligence-platform
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run stale deals check
+        run: python -m compliance.stale_deals
+        env:
+          HUBSPOT_ACCESS_TOKEN: ${{ secrets.HUBSPOT_ACCESS_TOKEN }}
+          HUBSPOT_PORTAL_ID:    ${{ secrets.HUBSPOT_PORTAL_ID }}
+          SLACK_WEBHOOK_URL:    ${{ secrets.SLACK_WEBHOOK_URL }}
+
+      - name: Upload stale deals log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stale-deals-log-${{ github.run_id }}
+          path: gtm-intelligence-platform/compliance/stale_deals_log.json
+          if-no-files-found: ignore

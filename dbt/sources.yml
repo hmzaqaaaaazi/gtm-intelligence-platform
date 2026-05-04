@@ -1,0 +1,72 @@
+version: 2
+
+sources:
+  - name: raw
+    database: GTM_INTELLIGENCE
+    schema: RAW
+    description: >
+      Raw tables loaded by the GTM Intelligence ingestion pipeline from federal
+      government data sources (USASpending, SEC EDGAR, BLS).
+
+    tables:
+      - name: usaspending_awards
+        description: >
+          Federal contract award records ingested from the USASpending.gov API.
+          Covers IT and consulting NAICS codes for fiscal year 2024.
+        columns:
+          - name: recipient_name
+            description: Legal name of the company that received the federal award.
+          - name: award_amount
+            description: Dollar value of the federal contract award.
+          - name: awarding_agency
+            description: Federal agency that issued the contract.
+          - name: state_code
+            description: Two-character US state code for the place of performance.
+          - name: award_id
+            description: Unique identifier for the award (USASpending internal ID).
+          - name: start_date
+            description: Contract start date in YYYY-MM-DD format.
+          - name: naics_code
+            description: NAICS industry code associated with the award. Nullable.
+
+      - name: sec_8k_filings
+        description: >
+          SEC EDGAR 8-K filings for software, SaaS, AI, and cloud computing
+          companies filed between 2024-01-01 and 2024-12-31.
+        columns:
+          - name: display_name_raw
+            description: Raw display name string from SEC EDGAR including ticker and CIK.
+          - name: company_name
+            description: Extracted company name, stripped of ticker and CIK information.
+          - name: ticker
+            description: Stock ticker symbol extracted from the display name. Nullable.
+          - name: cik
+            description: SEC Central Index Key (CIK) for the filing entity. Nullable.
+          - name: file_date
+            description: Date the 8-K filing was submitted to the SEC.
+          - name: biz_location
+            description: Business location string from SEC EDGAR. Nullable.
+          - name: state_code
+            description: US state abbreviation for the company's registered business state. Nullable.
+          - name: sic_code
+            description: Standard Industrial Classification (SIC) code. Nullable.
+          - name: items
+            description: JSON string listing the 8-K item numbers reported in the filing.
+
+      - name: bls_job_openings
+        description: >
+          Job openings time series data from the Bureau of Labor Statistics (BLS)
+          Job Openings and Labor Turnover Survey (JOLTS) for 2023–2024.
+        columns:
+          - name: series_id
+            description: BLS series identifier (e.g. JTS510000000000000JOL).
+          - name: industry
+            description: Human-readable industry name mapped from the series ID.
+          - name: year
+            description: Four-digit year of the data point.
+          - name: period
+            description: BLS period code (e.g. M01 for January).
+          - name: period_name
+            description: Full month name for the period (e.g. January).
+          - name: value
+            description: Number of job openings (in thousands) for the period.
