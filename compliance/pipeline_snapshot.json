@@ -1,14 +1,19 @@
 {
-  "snapshot_date": "2026-05-03T09:27:31.262569+00:00",
+  "snapshot_date": "2026-05-05T17:22:54.766159+00:00",
   "stages": {
     "appointmentscheduled": {
-      "count": 4,
-      "total_value": 826713.0700000001,
+      "count": 9,
+      "total_value": 20408588.64,
       "deal_ids": [
         "323682727634",
         "323719109356",
         "323709360885",
-        "323594510012"
+        "323594510012",
+        "323596299987",
+        "323592709840",
+        "323729436348",
+        "323592709841",
+        "323706270451"
       ]
     }
   },
@@ -32,8 +37,33 @@
       "name": "Tempus AI, Inc. \u2014 GTM Intelligence",
       "stage": "appointmentscheduled",
       "acv": 125545.9
+    },
+    "323596299987": {
+      "name": "Science Applications International Corporation \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 18133067.3
+    },
+    "323592709840": {
+      "name": "Matthews International Corporation \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "323729436348": {
+      "name": "Axon Enterprise, Inc. \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 192638.39
+    },
+    "323592709841": {
+      "name": "Lockheed Martin Corporation \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 1256169.88
+    },
+    "323706270451": {
+      "name": "XMax Inc. \u2014 GTM Intelligence",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
     }
   },
-  "total_deals": 4,
-  "total_value": 826713.07
+  "total_deals": 9,
+  "total_value": 20408588.64
 }
