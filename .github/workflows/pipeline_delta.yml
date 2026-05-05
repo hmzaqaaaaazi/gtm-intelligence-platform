@@ -1,8 +1,7 @@
 name: Weekly Pipeline Delta
-
 on:
   schedule:
-    - cron: '0 7 * * 1'   # 7 AM UTC every Monday
+    - cron: '0 7 * * 1'
   workflow_dispatch:
     inputs:
       publish:
@@ -11,31 +10,20 @@ on:
         default: 'false'
         type: choice
         options: ['false', 'true']
-
 permissions:
-  contents: write   # needed to commit the updated pipeline snapshot
-
+  contents: write
 jobs:
-
-  # ── Job 1: Generate delta, post draft to Slack, commit snapshot ─────────────
   generate-draft:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: gtm-intelligence-platform
-
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
       - name: Generate pipeline delta draft
         run: python -m compliance.pipeline_delta
         env:
@@ -43,7 +31,6 @@ jobs:
           HUBSPOT_PORTAL_ID:    ${{ secrets.HUBSPOT_PORTAL_ID }}
           SLACK_WEBHOOK_URL:    ${{ secrets.SLACK_WEBHOOK_URL }}
           GROQ_API_KEY:         ${{ secrets.GROQ_API_KEY }}
-
       - name: Commit updated pipeline snapshot
         run: |
           git config user.email "pipeline-bot@gtm-intelligence.com"
@@ -52,48 +39,35 @@ jobs:
           git diff --staged --quiet \
             || git commit -m "chore: update pipeline snapshot $(date -u +%Y-%m-%d)"
           git push
-
       - name: Upload draft artifact
         uses: actions/upload-artifact@v4
         with:
           name: pipeline-delta-draft-${{ github.run_id }}
           path: |
-            gtm-intelligence-platform/compliance/pipeline_snapshot.json
-            gtm-intelligence-platform/compliance/pipeline_delta_draft.json
-
-  # ── Job 2: Post to leadership (requires manual approval via GitHub environment)
+            compliance/pipeline_snapshot.json
+            compliance/pipeline_delta_draft.json
   publish-to-leadership:
     needs: generate-draft
     runs-on: ubuntu-latest
-    # Create a GitHub environment called "leadership-approval" and add required
-    # reviewers to it — those reviewers must approve before this job runs.
     environment: leadership-approval
     if: ${{ github.event.inputs.publish == 'true' || github.event_name == 'schedule' }}
-    defaults:
-      run:
-        working-directory: gtm-intelligence-platform
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
       - name: Download draft artifact
         uses: actions/download-artifact@v4
         with:
           name: pipeline-delta-draft-${{ github.run_id }}
-          path: gtm-intelligence-platform/compliance/
-
+          path: compliance/
       - name: Publish approved narrative to leadership
         run: python -m compliance.pipeline_delta --publish
         env:
-          HUBSPOT_ACCESS_TOKEN:        ${{ secrets.HUBSPOT_ACCESS_TOKEN }}
-          HUBSPOT_PORTAL_ID:           ${{ secrets.HUBSPOT_PORTAL_ID }}
-          SLACK_WEBHOOK_URL:           ${{ secrets.SLACK_WEBHOOK_URL }}
+          HUBSPOT_ACCESS_TOKEN:         ${{ secrets.HUBSPOT_ACCESS_TOKEN }}
+          HUBSPOT_PORTAL_ID:            ${{ secrets.HUBSPOT_PORTAL_ID }}
+          SLACK_WEBHOOK_URL:            ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_LEADERSHIP_WEBHOOK_URL: ${{ secrets.SLACK_LEADERSHIP_WEBHOOK_URL }}
-          GROQ_API_KEY:                ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_KEY:                 ${{ secrets.GROQ_API_KEY }}
