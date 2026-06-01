@@ -1,2191 +1,637 @@
 {
   "delta": {
-    "as_of": "2026-05-25T11:07:44.873313+00:00",
-    "prev_snapshot_date": "2026-05-18T11:04:35.377079+00:00",
+    "as_of": "2026-06-01T12:33:34.237580+00:00",
+    "prev_snapshot_date": "2026-05-25T11:07:44.873313+00:00",
     "added_deals": [
       {
-        "deal_id": "326381446855",
-        "name": "Caraballo CPA",
+        "deal_id": "326623829740",
+        "name": "Monthend",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326381446855"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326623829740"
       },
       {
-        "deal_id": "326381512379",
-        "name": "Tristan CPA",
+        "deal_id": "326653342416",
+        "name": "riskin & riskin",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326381512379"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326653342416"
       },
       {
-        "deal_id": "326384767712",
-        "name": "Tristan CPA",
+        "deal_id": "326667759336",
+        "name": "Mascia Frank J CPA",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326384767712"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326667759336"
       },
       {
-        "deal_id": "326384795383",
-        "name": "Caraballo CPA",
+        "deal_id": "326679168737",
+        "name": "Sundberg Tax & Consulting (DT Mpls) | Small Business Tax | Accountant",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326384795383"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326679168737"
       },
       {
-        "deal_id": "326385016530",
-        "name": "Dimov Associates",
+        "deal_id": "326679168741",
+        "name": "Atheneum CFO",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385016530"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326679168741"
       },
       {
-        "deal_id": "326385041113",
-        "name": "Z&Z Accounting Services",
+        "deal_id": "326686131937",
+        "name": "Accounting Connections",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385041113"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326686131937"
       },
       {
-        "deal_id": "326385168100",
-        "name": "Cohen & Associates, LLC",
+        "deal_id": "326832393966",
+        "name": "Riedel-Hogan CPA",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385168100"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326832393966"
       },
       {
-        "deal_id": "326385268467",
-        "name": "Miller Wachman LLP",
+        "deal_id": "326832393967",
+        "name": "Abacus!",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385268467"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326832393967"
       },
       {
-        "deal_id": "326385297106",
-        "name": "New Hampshire Society of CPA",
+        "deal_id": "326896911082",
+        "name": "Triune Accounting Group, LLC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385297106"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326896911082"
       },
       {
-        "deal_id": "326385297109",
-        "name": "Freedom Accounting Services, LLC",
+        "deal_id": "326896921308",
+        "name": "Open Books Accounting & Tax Services",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385297109"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326896921308"
       },
       {
-        "deal_id": "326385297110",
-        "name": "Appalachian Bookkeeping LLC",
+        "deal_id": "326898727641",
+        "name": "R.J. Testo & Associates",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385297110"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326898727641"
       },
       {
-        "deal_id": "326385297111",
-        "name": "The Busy Bee Bookkeeping & Consulting LLC",
+        "deal_id": "326900521660",
+        "name": "Laydon and Company, LLC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385297111"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326900521660"
       },
       {
-        "deal_id": "326385297112",
-        "name": "Baroody & Greenwood, LLC - CPA, Tax and Accounting",
+        "deal_id": "326902456025",
+        "name": "R.J. Testo & Associates",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326385297112"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326902456025"
       },
       {
-        "deal_id": "326389172955",
-        "name": "Profit Source Advanced Bkpg",
+        "deal_id": "326907840227",
+        "name": "Nitya LLC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326389172955"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326907840227"
       },
       {
-        "deal_id": "326409198269",
-        "name": "Firestorm Finance",
+        "deal_id": "326907854532",
+        "name": "Laydon and Company, LLC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326409198269"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326907854532"
       },
       {
-        "deal_id": "326412068571",
-        "name": "Freedomfolio",
+        "deal_id": "326909666003",
+        "name": "Cowen Tax Advisory Group, Inc.",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412068571"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326909666003"
       },
       {
-        "deal_id": "326412068573",
+        "deal_id": "326909669060",
+        "name": "Shernow Thomas a CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326909669060"
+      },
+      {
+        "deal_id": "326911457981",
+        "name": "The Innovative CPA Group, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326911457981"
+      },
+      {
+        "deal_id": "326916955856",
+        "name": "Taurus CPA Solutions, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326916955856"
+      },
+      {
+        "deal_id": "326916976347",
+        "name": "JAH Financial Services & Real Estate LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326916976347"
+      },
+      {
+        "deal_id": "326916981460",
+        "name": "Whitten Horton & Gibney",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326916981460"
+      },
+      {
+        "deal_id": "326918759124",
+        "name": "The Edge Capital Bookkeeping Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326918759124"
+      },
+      {
+        "deal_id": "326918759126",
+        "name": "Zenger & Young Tax Service",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326918759126"
+      },
+      {
+        "deal_id": "326918765304",
+        "name": "Whitten Horton & Gibney",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326918765304"
+      },
+      {
+        "deal_id": "326920577732",
+        "name": "Twin Cities Accounting and Tax",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326920577732"
+      },
+      {
+        "deal_id": "326920577733",
+        "name": "Rocca CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326920577733"
+      },
+      {
+        "deal_id": "326920579798",
+        "name": "Mascia Frank J CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326920579798"
+      },
+      {
+        "deal_id": "326920579799",
+        "name": "Spambanato Peter CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326920579799"
+      },
+      {
+        "deal_id": "326922370798",
+        "name": "Fit Money CPA Louisville Tax Advisory & Bookkeeping",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326922370798"
+      },
+      {
+        "deal_id": "326922378976",
+        "name": "Connecticut Accounting & Tax Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326922378976"
+      },
+      {
+        "deal_id": "326924175088",
+        "name": "Morem & Waller, CPAs",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326924175088"
+      },
+      {
+        "deal_id": "326926055110",
+        "name": "Henry Mensah CPA LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326926055110"
+      },
+      {
+        "deal_id": "326931369667",
+        "name": "RQ Professional Accounting & Tax Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326931369667"
+      },
+      {
+        "deal_id": "326934958836",
+        "name": "King Sterward\u2019s Taxes and Accounitng Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326934958836"
+      },
+      {
+        "deal_id": "326936775416",
+        "name": "R.J. Testo & Associates",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326936775416"
+      },
+      {
+        "deal_id": "326936776385",
+        "name": "RQ Professional Accounting & Tax Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326936776385"
+      },
+      {
+        "deal_id": "326938578649",
+        "name": "The Innovative CPA Group, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326938578649"
+      },
+      {
+        "deal_id": "326940371674",
+        "name": "KeyLin Advisors",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326940371674"
+      },
+      {
+        "deal_id": "326942153408",
+        "name": "ADLC Accounting and Multiservices",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326942153408"
+      },
+      {
+        "deal_id": "326942176973",
+        "name": "Spambanato Peter CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326942176973"
+      },
+      {
+        "deal_id": "326942176985",
+        "name": "Rodney P Kaufman, CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326942176985"
+      },
+      {
+        "deal_id": "326945813241",
+        "name": "Ike & Cookie",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326945813241"
+      },
+      {
+        "deal_id": "326945814202",
+        "name": "Grant & Associates, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326945814202"
+      },
+      {
+        "deal_id": "326945824486",
+        "name": "Welenken CPAs",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326945824486"
+      },
+      {
+        "deal_id": "326945835766",
+        "name": "Spambanato Peter CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326945835766"
+      },
+      {
+        "deal_id": "326947610350",
+        "name": "B & B Accounting Firm",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326947610350"
+      },
+      {
+        "deal_id": "326947619556",
+        "name": "Amick & Company",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326947619556"
+      },
+      {
+        "deal_id": "326947629757",
+        "name": "Rodney P Kaufman, CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326947629757"
+      },
+      {
+        "deal_id": "326947629774",
+        "name": "Mascia Frank J CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326947629774"
+      },
+      {
+        "deal_id": "326949426896",
+        "name": "Accountants CPA Hartford, Connecticut, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326949426896"
+      },
+      {
+        "deal_id": "326949428963",
+        "name": "Laydon and Company, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326949428963"
+      },
+      {
+        "deal_id": "326951244537",
+        "name": "Gross, Mendelsohn & Associates",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326951244537"
+      },
+      {
+        "deal_id": "326951276246",
+        "name": "Asamoa & Associates, CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326951276246"
+      },
+      {
+        "deal_id": "326951276247",
+        "name": "Harding, Shymanski & Company, P.S.C.",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326951276247"
+      },
+      {
+        "deal_id": "326951280359",
+        "name": "SDK CPAs (Schechter Dokken Kanter)",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326951280359"
+      },
+      {
+        "deal_id": "326951322345",
+        "name": "Prudent Accountants",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326951322345"
+      },
+      {
+        "deal_id": "326953116367",
+        "name": "Noir Arise Accounting",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326953116367"
+      },
+      {
+        "deal_id": "326953138926",
+        "name": "riskin & riskin",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326953138926"
+      },
+      {
+        "deal_id": "326953195234",
+        "name": "Shernow Thomas a CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326953195234"
+      },
+      {
+        "deal_id": "326953206472",
+        "name": "riskin & riskin",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326953206472"
+      },
+      {
+        "deal_id": "326960425664",
+        "name": "Avila Tax Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326960425664"
+      },
+      {
+        "deal_id": "326960873173",
+        "name": "Everett Financial Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326960873173"
+      },
+      {
+        "deal_id": "326964527854",
+        "name": "Sunrise Accounting & Taxation",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326964527854"
+      },
+      {
+        "deal_id": "326976933572",
+        "name": "Ann M. Irons, CPA",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/326976933572"
+      },
+      {
+        "deal_id": "327034403575",
+        "name": "LP Tax Services",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327034403575"
+      },
+      {
+        "deal_id": "327066837745",
+        "name": "John Harmon, CPA, LLC",
+        "stage": "appointmentscheduled",
+        "acv": 0.0,
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327066837745"
+      },
+      {
+        "deal_id": "327082604248",
         "name": "Wolf & Company, P.C.",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412068573"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327082604248"
       },
       {
-        "deal_id": "326412103407",
-        "name": "Freedomfolio",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412103407"
-      },
-      {
-        "deal_id": "326412132054",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412132054"
-      },
-      {
-        "deal_id": "326412431092",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412431092"
-      },
-      {
-        "deal_id": "326412446447",
-        "name": "Dukhon Tax and Accounting LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412446447"
-      },
-      {
-        "deal_id": "326412491454",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412491454"
-      },
-      {
-        "deal_id": "326412502728",
-        "name": "Christopher P. Finn, CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326412502728"
-      },
-      {
-        "deal_id": "326422769344",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422769344"
-      },
-      {
-        "deal_id": "326422775545",
-        "name": "small business aide",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422775545"
-      },
-      {
-        "deal_id": "326422804168",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422804168"
-      },
-      {
-        "deal_id": "326422817526",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422817526"
-      },
-      {
-        "deal_id": "326422817527",
-        "name": "Caraballo CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422817527"
-      },
-      {
-        "deal_id": "326422817528",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422817528"
-      },
-      {
-        "deal_id": "326422817529",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422817529"
-      },
-      {
-        "deal_id": "326422818490",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326422818490"
-      },
-      {
-        "deal_id": "326423154407",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423154407"
-      },
-      {
-        "deal_id": "326423178996",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423178996"
-      },
-      {
-        "deal_id": "326423212753",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423212753"
-      },
-      {
-        "deal_id": "326423239360",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423239360"
-      },
-      {
-        "deal_id": "326423303898",
-        "name": "Haque CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423303898"
-      },
-      {
-        "deal_id": "326423303899",
-        "name": "LIC Accountants & Advisors",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423303899"
-      },
-      {
-        "deal_id": "326423327418",
-        "name": "Daniel Heath Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326423327418"
-      },
-      {
-        "deal_id": "326425455307",
-        "name": "J. Hall & Company",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326425455307"
-      },
-      {
-        "deal_id": "326437127901",
-        "name": "Quincy CPA Partners",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437127901"
-      },
-      {
-        "deal_id": "326437228281",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437228281"
-      },
-      {
-        "deal_id": "326437229242",
-        "name": "Unchained Financial Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437229242"
-      },
-      {
-        "deal_id": "326437261015",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437261015"
-      },
-      {
-        "deal_id": "326437261029",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437261029"
-      },
-      {
-        "deal_id": "326437261048",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437261048"
-      },
-      {
-        "deal_id": "326437277402",
-        "name": "Freedomfolio",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437277402"
-      },
-      {
-        "deal_id": "326437277408",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437277408"
-      },
-      {
-        "deal_id": "326437277409",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437277409"
-      },
-      {
-        "deal_id": "326437647088",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437647088"
-      },
-      {
-        "deal_id": "326437704391",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437704391"
-      },
-      {
-        "deal_id": "326437735143",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326437735143"
-      },
-      {
-        "deal_id": "326442555071",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326442555071"
-      },
-      {
-        "deal_id": "326442585820",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326442585820"
-      },
-      {
-        "deal_id": "326442899156",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326442899156"
-      },
-      {
-        "deal_id": "326442901186",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326442901186"
-      },
-      {
-        "deal_id": "326442948342",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326442948342"
-      },
-      {
-        "deal_id": "326442948344",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326442948344"
-      },
-      {
-        "deal_id": "326443009742",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326443009742"
-      },
-      {
-        "deal_id": "326443064047",
-        "name": "Boylston Tax Group",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326443064047"
-      },
-      {
-        "deal_id": "326443064048",
-        "name": "McGaunn & Schwadron, CPA's, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326443064048"
-      },
-      {
-        "deal_id": "326443064049",
-        "name": "Accountants Near Me | Tax & CPA Firm",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326443064049"
-      },
-      {
-        "deal_id": "326443083456",
-        "name": "Do What You Love Accounting, Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326443083456"
-      },
-      {
-        "deal_id": "326446230244",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446230244"
-      },
-      {
-        "deal_id": "326446284497",
-        "name": "Miller Wachman LLP",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446284497"
-      },
-      {
-        "deal_id": "326446284501",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446284501"
-      },
-      {
-        "deal_id": "326446284502",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446284502"
-      },
-      {
-        "deal_id": "326446585588",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446585588"
-      },
-      {
-        "deal_id": "326446767847",
-        "name": "ProfitLink Consulting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446767847"
-      },
-      {
-        "deal_id": "326446797507",
-        "name": "Gelinas & Pratte CPA Tax And Quickbook Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326446797507"
-      },
-      {
-        "deal_id": "326452118250",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452118250"
-      },
-      {
-        "deal_id": "326452428489",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452428489"
-      },
-      {
-        "deal_id": "326452471498",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452471498"
-      },
-      {
-        "deal_id": "326452503242",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452503242"
-      },
-      {
-        "deal_id": "326452503243",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452503243"
-      },
-      {
-        "deal_id": "326452586223",
-        "name": "Cintolo & Mc Carthy",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452586223"
-      },
-      {
-        "deal_id": "326452586224",
-        "name": "Alkon & Levine PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452586224"
-      },
-      {
-        "deal_id": "326452586225",
-        "name": "A&I Financial accounting and bookkeeping solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452586225"
-      },
-      {
-        "deal_id": "326452586228",
-        "name": "Business Boston",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452586228"
-      },
-      {
-        "deal_id": "326452586229",
-        "name": "EBS Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452586229"
-      },
-      {
-        "deal_id": "326452620001",
-        "name": "The Albano Group",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452620001"
-      },
-      {
-        "deal_id": "326452620002",
-        "name": "Samuel P. Freeman CPA, MST",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452620002"
-      },
-      {
-        "deal_id": "326452620003",
-        "name": "Ledger-Leaf LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326452620003"
-      },
-      {
-        "deal_id": "326454087406",
-        "name": "Caraballo CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326454087406"
-      },
-      {
-        "deal_id": "326454135495",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326454135495"
-      },
-      {
-        "deal_id": "326466249402",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466249402"
-      },
-      {
-        "deal_id": "326466296541",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466296541"
-      },
-      {
-        "deal_id": "326466325180",
-        "name": "Caraballo CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466325180"
-      },
-      {
-        "deal_id": "326466325181",
-        "name": "Motta Financial",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466325181"
-      },
-      {
-        "deal_id": "326466678489",
-        "name": "Tyler Lynch PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466678489"
-      },
-      {
-        "deal_id": "326466745072",
-        "name": "Freedomfolio",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466745072"
-      },
-      {
-        "deal_id": "326466763465",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466763465"
-      },
-      {
-        "deal_id": "326466763467",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326466763467"
-      },
-      {
-        "deal_id": "326467105481",
-        "name": "LUGO'S ACCOUNTING SERVICES",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326467105481"
-      },
-      {
-        "deal_id": "326467105483",
-        "name": "Marvin A. Arotsky CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326467105483"
-      },
-      {
-        "deal_id": "326469845728",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326469845728"
-      },
-      {
-        "deal_id": "326470202052",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470202052"
-      },
-      {
-        "deal_id": "326470221504",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470221504"
-      },
-      {
-        "deal_id": "326470221505",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470221505"
-      },
-      {
-        "deal_id": "326470262468",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470262468"
-      },
-      {
-        "deal_id": "326470293211",
-        "name": "Christopher P. Finn, CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470293211"
-      },
-      {
-        "deal_id": "326470379251",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470379251"
-      },
-      {
-        "deal_id": "326470431429",
-        "name": "Treeful Damaso Aniceto, Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470431429"
-      },
-      {
-        "deal_id": "326470431430",
-        "name": "Peace on Tax",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470431430"
-      },
-      {
-        "deal_id": "326470431431",
-        "name": "Daniel K Kwan",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470431431"
-      },
-      {
-        "deal_id": "326470452977",
-        "name": "Altair Group, PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470452977"
-      },
-      {
-        "deal_id": "326470728400",
-        "name": "AGI Accounting & Tax Services LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326470728400"
-      },
-      {
-        "deal_id": "326475457247",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475457247"
-      },
-      {
-        "deal_id": "326475493051",
-        "name": "Tyler Lynch PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475493051"
-      },
-      {
-        "deal_id": "326475626202",
+        "deal_id": "327178171111",
         "name": "RMJR Tax and Accounting",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475626202"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327178171111"
       },
       {
-        "deal_id": "326475644641",
-        "name": "Rodger W Wolf & Co., PC",
+        "deal_id": "327178575578",
+        "name": "Z&Z Accounting Services",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475644641"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327178575578"
       },
       {
-        "deal_id": "326475644643",
-        "name": "Darcie's Bookkeeping Services",
+        "deal_id": "327178575579",
+        "name": "Tristan CPA",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475644643"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327178575579"
       },
       {
-        "deal_id": "326475783904",
-        "name": "Brookline Tax Group",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475783904"
-      },
-      {
-        "deal_id": "326475977402",
-        "name": "Internal Tax Service, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475977402"
-      },
-      {
-        "deal_id": "326475977405",
-        "name": "NB Advisors Small Business Accountant - Philadelphia Location",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326475977405"
-      },
-      {
-        "deal_id": "326476949204",
+        "deal_id": "327180500702",
         "name": "Freedomfolio",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326476949204"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327180500702"
       },
       {
-        "deal_id": "326480731881",
-        "name": "Simon CPAs",
+        "deal_id": "327180564172",
+        "name": "The Financial and Tax Group Inc",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326480731881"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327180564172"
       },
       {
-        "deal_id": "326480731884",
-        "name": "Hajiani CPA LLC",
+        "deal_id": "327183693549",
+        "name": "Gilpin CPA Inc",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326480731884"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327183693549"
       },
       {
-        "deal_id": "326484262586",
-        "name": "Freedomfolio",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326484262586"
-      },
-      {
-        "deal_id": "326485930726",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326485930726"
-      },
-      {
-        "deal_id": "326485974728",
+        "deal_id": "327184029377",
         "name": "Dimov Associates",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326485974728"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327184029377"
       },
       {
-        "deal_id": "326486185687",
-        "name": "Dukhon Tax and Accounting LLC",
+        "deal_id": "327255403227",
+        "name": "Hix & Cortese, P.C.",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486185687"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327255403227"
       },
       {
-        "deal_id": "326486217465",
-        "name": "LedgerLift Bookkeeping Solutions",
+        "deal_id": "327269777122",
+        "name": "Norton Bookkeeping, Inc.",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486217465"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327269777122"
       },
       {
-        "deal_id": "326486394591",
-        "name": "Innovative Tax & Accounting Solutions Inc.",
+        "deal_id": "327269787374",
+        "name": "LF ACCOUNTING SERVICES INC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486394591"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327269787374"
       },
       {
-        "deal_id": "326486407906",
-        "name": "Ansell & Anderson, P.A.",
+        "deal_id": "327269800668",
+        "name": "Definitive Accounting & Payroll",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486407906"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327269800668"
       },
       {
-        "deal_id": "326486407908",
-        "name": "Dugdale Livolsi & Wood PC",
+        "deal_id": "327269800672",
+        "name": "Orel & Associates CPAs Inc.",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486407908"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327269800672"
       },
       {
-        "deal_id": "326486407909",
-        "name": "Daniel Heath Accounting",
+        "deal_id": "327312690927",
+        "name": "Peter A Norton CPA PC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486407909"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327312690927"
       },
       {
-        "deal_id": "326486603509",
-        "name": "Dominique Thompson CPA, LLC",
+        "deal_id": "327312690928",
+        "name": "DiDonato, Wronnau, Abel, & Company CPAs",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486603509"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327312690928"
       },
       {
-        "deal_id": "326486623968",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326486623968"
-      },
-      {
-        "deal_id": "326604798711",
-        "name": "Walter Shuffain",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326604798711"
-      },
-      {
-        "deal_id": "326605125312",
-        "name": "Dukhon Tax and Accounting LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326605125312"
-      },
-      {
-        "deal_id": "326605138663",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326605138663"
-      },
-      {
-        "deal_id": "326605147860",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326605147860"
-      },
-      {
-        "deal_id": "326605175521",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326605175521"
-      },
-      {
-        "deal_id": "326622950119",
+        "deal_id": "327315310288",
         "name": "Simon CPAs",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326622950119"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327315310288"
       },
       {
-        "deal_id": "326622972623",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326622972623"
-      },
-      {
-        "deal_id": "326623080150",
-        "name": "Cohen & Associates, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326623080150"
-      },
-      {
-        "deal_id": "326623198938",
-        "name": "Law Firm of David M. Kohen",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326623198938"
-      },
-      {
-        "deal_id": "326623219425",
-        "name": "Rhodes Accounting & Tax Service",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326623219425"
-      },
-      {
-        "deal_id": "326623580885",
-        "name": "Complete Controller Philadelphia, PA - Bookkeeping Service",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326623580885"
-      },
-      {
-        "deal_id": "326623580886",
-        "name": "Vested Client Services Accounting and Bookkeeping",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326623580886"
-      },
-      {
-        "deal_id": "326623611581",
-        "name": "Dynamic Tax & Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326623611581"
-      },
-      {
-        "deal_id": "326632239837",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326632239837"
-      },
-      {
-        "deal_id": "326632265443",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326632265443"
-      },
-      {
-        "deal_id": "326649568977",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326649568977"
-      },
-      {
-        "deal_id": "326649592564",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326649592564"
-      },
-      {
-        "deal_id": "326652569297",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326652569297"
-      },
-      {
-        "deal_id": "326652569298",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326652569298"
-      },
-      {
-        "deal_id": "326652709618",
-        "name": "Fay Accounting Solutions LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326652709618"
-      },
-      {
-        "deal_id": "326653069002",
-        "name": "Amro Azazi CPA, PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326653069002"
-      },
-      {
-        "deal_id": "326666804929",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326666804929"
-      },
-      {
-        "deal_id": "326666824401",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326666824401"
-      },
-      {
-        "deal_id": "326666842869",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326666842869"
-      },
-      {
-        "deal_id": "326666987216",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326666987216"
-      },
-      {
-        "deal_id": "326667039422",
-        "name": "PREMIER TAX AND ACCOUNTING",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326667039422"
-      },
-      {
-        "deal_id": "326667039423",
-        "name": "Tax Accounting NYC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326667039423"
-      },
-      {
-        "deal_id": "326667039424",
-        "name": "NCHENG LLP",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326667039424"
-      },
-      {
-        "deal_id": "326667062997",
-        "name": "A Plus Bookkeeping Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326667062997"
-      },
-      {
-        "deal_id": "326667342542",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326667342542"
-      },
-      {
-        "deal_id": "326678400734",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678400734"
-      },
-      {
-        "deal_id": "326678457030",
-        "name": "Business Tax & Audit - Elena Kladova, CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678457030"
-      },
-      {
-        "deal_id": "326678457031",
-        "name": "Space Tax and Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678457031"
-      },
-      {
-        "deal_id": "326678457033",
-        "name": "Fidelity Tax Planning & Services, Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678457033"
-      },
-      {
-        "deal_id": "326678457034",
-        "name": "A&F Bookkeeping & Business Consulting Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678457034"
-      },
-      {
-        "deal_id": "326678457035",
-        "name": "Robert G Rice PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678457035"
-      },
-      {
-        "deal_id": "326678476528",
-        "name": "Great North Accounting, PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678476528"
-      },
-      {
-        "deal_id": "326678747885",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678747885"
-      },
-      {
-        "deal_id": "326678750945",
-        "name": "Dominique Thompson CPA, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678750945"
-      },
-      {
-        "deal_id": "326678914798",
-        "name": "Sendziak & Sroda CPA's, PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326678914798"
-      },
-      {
-        "deal_id": "326679968465",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326679968465"
-      },
-      {
-        "deal_id": "326681757399",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681757399"
-      },
-      {
-        "deal_id": "326681774793",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681774793"
-      },
-      {
-        "deal_id": "326681781961",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681781961"
-      },
-      {
-        "deal_id": "326681783005",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681783005"
-      },
-      {
-        "deal_id": "326681791179",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681791179"
-      },
-      {
-        "deal_id": "326681791183",
-        "name": "Dukhon Tax and Accounting LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681791183"
-      },
-      {
-        "deal_id": "326681823971",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681823971"
-      },
-      {
-        "deal_id": "326681823972",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681823972"
-      },
-      {
-        "deal_id": "326681915129",
-        "name": "Richard Hassey, CPA., LLC.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681915129"
-      },
-      {
-        "deal_id": "326681958102",
-        "name": "Draper Tax Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681958102"
-      },
-      {
-        "deal_id": "326681958104",
-        "name": "L&B Insurance Agency",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681958104"
-      },
-      {
-        "deal_id": "326681958105",
-        "name": "Tax & Files Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681958105"
-      },
-      {
-        "deal_id": "326681958106",
-        "name": "Hoffman Mulligan CPA's, LLP",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326681958106"
-      },
-      {
-        "deal_id": "326683463368",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326683463368"
-      },
-      {
-        "deal_id": "326683491008",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326683491008"
-      },
-      {
-        "deal_id": "326685281993",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326685281993"
-      },
-      {
-        "deal_id": "326685465295",
-        "name": "The Harbor Group Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326685465295"
-      },
-      {
-        "deal_id": "326685682423",
-        "name": "JMK Professional Services LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326685682423"
-      },
-      {
-        "deal_id": "326685714154",
-        "name": "SKP Accountants and Advisors, CPA's",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326685714154"
-      },
-      {
-        "deal_id": "326687052504",
-        "name": "Dukhon Tax and Accounting LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326687052504"
-      },
-      {
-        "deal_id": "326687085281",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326687085281"
-      },
-      {
-        "deal_id": "326688814783",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326688814783"
-      },
-      {
-        "deal_id": "326688835266",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326688835266"
-      },
-      {
-        "deal_id": "326690582241",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326690582241"
-      },
-      {
-        "deal_id": "326690591427",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326690591427"
-      },
-      {
-        "deal_id": "326694383334",
-        "name": "Wolf & Company, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326694383334"
-      },
-      {
-        "deal_id": "326694387414",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326694387414"
-      },
-      {
-        "deal_id": "326694470337",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326694470337"
-      },
-      {
-        "deal_id": "326696191696",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326696191696"
-      },
-      {
-        "deal_id": "326696213187",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326696213187"
-      },
-      {
-        "deal_id": "326698006257",
-        "name": "Z&Z Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326698006257"
-      },
-      {
-        "deal_id": "326699757259",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326699757259"
-      },
-      {
-        "deal_id": "326701388495",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326701388495"
-      },
-      {
-        "deal_id": "326701420249",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326701420249"
-      },
-      {
-        "deal_id": "326701431529",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326701431529"
-      },
-      {
-        "deal_id": "326701431530",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326701431530"
-      },
-      {
-        "deal_id": "326703174354",
-        "name": "Anomaly CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703174354"
-      },
-      {
-        "deal_id": "326703174356",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703174356"
-      },
-      {
-        "deal_id": "326703174357",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703174357"
-      },
-      {
-        "deal_id": "326703277799",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703277799"
-      },
-      {
-        "deal_id": "326703277800",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703277800"
-      },
-      {
-        "deal_id": "326703277801",
-        "name": "Olive Branch Financial Services, Inc.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703277801"
-      },
-      {
-        "deal_id": "326703313639",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703313639"
-      },
-      {
-        "deal_id": "326703391445",
-        "name": "Trust Financial Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703391445"
-      },
-      {
-        "deal_id": "326703423208",
-        "name": "NH Tax Advisors",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703423208"
-      },
-      {
-        "deal_id": "326703682280",
-        "name": "Seward And Monde",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703682280"
-      },
-      {
-        "deal_id": "326703704815",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703704815"
-      },
-      {
-        "deal_id": "326703705834",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703705834"
-      },
-      {
-        "deal_id": "326703708871",
-        "name": "JMK Professional Services LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703708871"
-      },
-      {
-        "deal_id": "326703708872",
-        "name": "Sinopoli CPA PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703708872"
-      },
-      {
-        "deal_id": "326703708874",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703708874"
-      },
-      {
-        "deal_id": "326703842030",
-        "name": "Mac Alpine Carll & Co",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326703842030"
-      },
-      {
-        "deal_id": "326704980700",
-        "name": "Dimov Associates",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326704980700"
-      },
-      {
-        "deal_id": "326704980703",
-        "name": "Miller CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326704980703"
-      },
-      {
-        "deal_id": "326705008360",
-        "name": "Dukhon Tax and Accounting LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326705008360"
-      },
-      {
-        "deal_id": "326705018568",
-        "name": "Tyler Lynch PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326705018568"
-      },
-      {
-        "deal_id": "326706752245",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326706752245"
-      },
-      {
-        "deal_id": "326706764491",
-        "name": "Simon CPAs",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326706764491"
-      },
-      {
-        "deal_id": "326708557541",
-        "name": "Tristan CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326708557541"
-      },
-      {
-        "deal_id": "326708557542",
-        "name": "LedgerLift Bookkeeping Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326708557542"
-      },
-      {
-        "deal_id": "326710465232",
+        "deal_id": "327315310291",
         "name": "Caraballo CPA",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326710465232"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327315310291"
       },
       {
-        "deal_id": "326710552302",
-        "name": "Robert F Pagano & Associates",
+        "deal_id": "327331691231",
+        "name": "Turner & Costa, P.C.",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326710552302"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327331691231"
       },
       {
-        "deal_id": "326710807256",
-        "name": "Scheid Deignan Brown",
+        "deal_id": "327335543538",
+        "name": "Izza Accounting Services",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326710807256"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327335543538"
       },
       {
-        "deal_id": "326712387260",
-        "name": "Maureen Dowst CPA PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326712387260"
-      },
-      {
-        "deal_id": "326712387262",
-        "name": "ZoMax Bookkeeping Services LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326712387262"
-      },
-      {
-        "deal_id": "326714623697",
+        "deal_id": "327349201644",
         "name": "Hajiani CPA LLC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326714623697"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327349201644"
       },
       {
-        "deal_id": "326714631911",
-        "name": "Dimov Associates",
+        "deal_id": "327349394133",
+        "name": "Anomaly CPA",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326714631911"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327349394133"
       },
       {
-        "deal_id": "326714667709",
-        "name": "Tristan CPA",
+        "deal_id": "327349394136",
+        "name": "Cohen & Associates, LLC",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326714667709"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327349394136"
       },
       {
-        "deal_id": "326716457707",
-        "name": "Hajiani CPA LLC",
+        "deal_id": "327362628308",
+        "name": "CP Tax Services",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326716457707"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327362628308"
       },
       {
-        "deal_id": "326721986276",
-        "name": "EisnerAmper",
+        "deal_id": "327362649844",
+        "name": "DV Multiservices",
         "stage": "appointmentscheduled",
         "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326721986276"
-      },
-      {
-        "deal_id": "326722020081",
-        "name": "Hajiani CPA LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722020081"
-      },
-      {
-        "deal_id": "326722020082",
-        "name": "Freedomfolio",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722020082"
-      },
-      {
-        "deal_id": "326722073275",
-        "name": "FS Tax Accountant & Bookkeeping Of Midtown NYC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722073275"
-      },
-      {
-        "deal_id": "326722073276",
-        "name": "Federal Bookkeeping & Tax Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722073276"
-      },
-      {
-        "deal_id": "326722073279",
-        "name": "David A Levy CPA PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722073279"
-      },
-      {
-        "deal_id": "326722073280",
-        "name": "Colella CPA Co, PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722073280"
-      },
-      {
-        "deal_id": "326722073281",
-        "name": "Gary Mehta, CPA, EA : Accountant of New York and Beyond",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722073281"
-      },
-      {
-        "deal_id": "326722107076",
-        "name": "Honeycomb Bookkeeping LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326722107076"
-      },
-      {
-        "deal_id": "326723837664",
-        "name": "Russell Partners LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837664"
-      },
-      {
-        "deal_id": "326723837666",
-        "name": "CCR Tax Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837666"
-      },
-      {
-        "deal_id": "326723837667",
-        "name": "LGA, LLP - CPAs & Business Advisors",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837667"
-      },
-      {
-        "deal_id": "326723837668",
-        "name": "Debits & Credits LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837668"
-      },
-      {
-        "deal_id": "326723837670",
-        "name": "Micciantuono & Co",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837670"
-      },
-      {
-        "deal_id": "326723837672",
-        "name": "Barneke & Anderson",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837672"
-      },
-      {
-        "deal_id": "326723837673",
-        "name": "Michael T. Famiglietti, CPA, P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723837673"
-      },
-      {
-        "deal_id": "326723840745",
-        "name": "Tiedemann & Co",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723840745"
-      },
-      {
-        "deal_id": "326723840749",
-        "name": "Inder Singh CPA, NYC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723840749"
-      },
-      {
-        "deal_id": "326723840750",
-        "name": "Orbit Accountants New York",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723840750"
-      },
-      {
-        "deal_id": "326723877598",
-        "name": "EasyAcct Inc",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723877598"
-      },
-      {
-        "deal_id": "326723877599",
-        "name": "Volken Financial Services, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723877599"
-      },
-      {
-        "deal_id": "326723877601",
-        "name": "Boston Tax Advisors, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723877601"
-      },
-      {
-        "deal_id": "326723913414",
-        "name": "Prime Business Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326723913414"
-      },
-      {
-        "deal_id": "326725692139",
-        "name": "Paramount Tax & Accounting Amherst",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326725692139"
-      },
-      {
-        "deal_id": "326730860270",
-        "name": "NH Bookkeeping Services LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326730860270"
-      },
-      {
-        "deal_id": "326734281410",
-        "name": "One Ten Bookkeeping Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326734281410"
-      },
-      {
-        "deal_id": "326734281412",
-        "name": "Appletree Business Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326734281412"
-      },
-      {
-        "deal_id": "326734281413",
-        "name": "NH Tax Service",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326734281413"
-      },
-      {
-        "deal_id": "326734281414",
-        "name": "PRESTIGE BOOKKEEPING SERVICES, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326734281414"
-      },
-      {
-        "deal_id": "326736084666",
-        "name": "Northeast Bookkeeping",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326736084666"
-      },
-      {
-        "deal_id": "326736084668",
-        "name": "Wilson Thomas Systems",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326736084668"
-      },
-      {
-        "deal_id": "326737878729",
-        "name": "Willamson's Tax & Financial Services, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326737878729"
-      },
-      {
-        "deal_id": "326737878730",
-        "name": "Check & Balance Business Solutions, LLC | QuickBooks ProAdvisor | Bookkeeping",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326737878730"
-      },
-      {
-        "deal_id": "326737878732",
-        "name": "LifeLine Financial Services, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326737878732"
-      },
-      {
-        "deal_id": "326737878734",
-        "name": "Abbott Accounting Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326737878734"
-      },
-      {
-        "deal_id": "326739685064",
-        "name": "Supporting Strategies | Southern New Hampshire",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326739685064"
-      },
-      {
-        "deal_id": "326741475009",
-        "name": "Petro and Company, PLLC CSP Tax & Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326741475009"
-      },
-      {
-        "deal_id": "326741475010",
-        "name": "Paradis Raymond & Jalbert",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326741475010"
-      },
-      {
-        "deal_id": "326741475011",
-        "name": "Wheeler Ring Dolan & Dupuis",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326741475011"
-      },
-      {
-        "deal_id": "326741475012",
-        "name": "Nh Tax & Bookkeeping",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326741475012"
-      },
-      {
-        "deal_id": "326741475013",
-        "name": "Druke Accounting & Tax Service, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326741475013"
-      },
-      {
-        "deal_id": "326747071190",
-        "name": "Andrew Turnbull & Company, CPA PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326747071190"
-      },
-      {
-        "deal_id": "326749084402",
-        "name": "SKP Accountants and Advisors, CPA's",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326749084402"
-      },
-      {
-        "deal_id": "326749107919",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326749107919"
-      },
-      {
-        "deal_id": "326749111014",
-        "name": "Accounting Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326749111014"
-      },
-      {
-        "deal_id": "326749111015",
-        "name": "Seward And Monde",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326749111015"
-      },
-      {
-        "deal_id": "326750698187",
-        "name": "J. Edward Meyer, CPA, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326750698187"
-      },
-      {
-        "deal_id": "326750707401",
-        "name": "BlueRock Bookkeeping LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326750707401"
-      },
-      {
-        "deal_id": "326750716609",
-        "name": "Toro Taxes Manchester NH CAA #IRS R\u00eda Money tranfer",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326750716609"
-      },
-      {
-        "deal_id": "326750716610",
-        "name": "Everest Accounting & Tax",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326750716610"
-      },
-      {
-        "deal_id": "326750964438",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326750964438"
-      },
-      {
-        "deal_id": "326808748748",
-        "name": "LUGO'S ACCOUNTING SERVICES",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808748748"
-      },
-      {
-        "deal_id": "326808767163",
-        "name": "Marvin A. Arotsky CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808767163"
-      },
-      {
-        "deal_id": "326808824523",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808824523"
-      },
-      {
-        "deal_id": "326808826583",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808826583"
-      },
-      {
-        "deal_id": "326808829688",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808829688"
-      },
-      {
-        "deal_id": "326808842968",
-        "name": "Marvin A. Arotsky CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808842968"
-      },
-      {
-        "deal_id": "326808863454",
-        "name": "AGI Accounting & Tax Services LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808863454"
-      },
-      {
-        "deal_id": "326808863455",
-        "name": "Donna Abbott Income Tax Return Preparation",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326808863455"
-      },
-      {
-        "deal_id": "326809475829",
-        "name": "Fulton\u2019s Accounting Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326809475829"
-      },
-      {
-        "deal_id": "326809475830",
-        "name": "JBB & Associates, LLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326809475830"
-      },
-      {
-        "deal_id": "326809536196",
-        "name": "Gerber Accounting and Tax Services",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326809536196"
-      },
-      {
-        "deal_id": "326809679575",
-        "name": "Moscato CPA LLP",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326809679575"
-      },
-      {
-        "deal_id": "326809726656",
-        "name": "Renda & Renda",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326809726656"
-      },
-      {
-        "deal_id": "326829558481",
-        "name": "Sinopoli CPA PLLC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326829558481"
-      },
-      {
-        "deal_id": "326829558483",
-        "name": "Marvin A. Arotsky CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326829558483"
-      },
-      {
-        "deal_id": "326829575926",
-        "name": "Accounting Solutions",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326829575926"
-      },
-      {
-        "deal_id": "326830218969",
-        "name": "Kim Yeung Ling P.C.",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326830218969"
-      },
-      {
-        "deal_id": "326830330554",
-        "name": "Brien's Business Umbrella Accounting",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326830330554"
-      },
-      {
-        "deal_id": "326830330558",
-        "name": "Kloc & Co",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326830330558"
-      },
-      {
-        "deal_id": "326830373569",
-        "name": "Buffalo Tax Strategies",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326830373569"
-      },
-      {
-        "deal_id": "326832168654",
-        "name": "Lumsden McCormick CPA",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326832168654"
-      },
-      {
-        "deal_id": "326835763899",
-        "name": "Blatner & Mineo CPA PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326835763899"
-      },
-      {
-        "deal_id": "326835779316",
-        "name": "Kopin & Company, CPA, PC",
-        "stage": "appointmentscheduled",
-        "acv": 0.0,
-        "link": "https://app.hubspot.com/contacts/244783142/deal/326835779316"
+        "link": "https://app.hubspot.com/contacts/244783142/deal/327362649844"
       }
     ],
     "removed_deals": [],
@@ -2194,20 +640,20 @@
       {
         "stage": "Appointment Scheduled",
         "stage_key": "appointmentscheduled",
-        "prev_count": 9,
-        "curr_count": 321,
-        "count_delta": 312,
+        "prev_count": 321,
+        "curr_count": 411,
+        "count_delta": 90,
         "prev_value": 20408588.64,
         "curr_value": 20408588.64,
         "value_delta": 0.0
       }
     ],
-    "total_deals_prev": 9,
-    "total_deals_curr": 321,
+    "total_deals_prev": 321,
+    "total_deals_curr": 411,
     "total_value_prev": 20408588.64,
     "total_value_curr": 20408588.64,
     "acv_delta": 0.0
   },
-  "narrative": "Pipeline update as of 2026-05-25 vs 2026-05-18. Total open deals: 321 (+312 vs prior). Total pipeline value: $20,408,589 (+$0). 312 new deal(s) entered, 0 deal(s) closed or removed, 0 deal(s) advanced stage.",
-  "generated_at": "2026-05-25T11:07:44.873313+00:00"
+  "narrative": "Pipeline update as of 2026-06-01 vs 2026-05-25. Total open deals: 411 (+90 vs prior). Total pipeline value: $20,408,589 (+$0). 90 new deal(s) entered, 0 deal(s) closed or removed, 0 deal(s) advanced stage.",
+  "generated_at": "2026-06-01T12:33:34.237580+00:00"
 }

@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-05-25T11:07:44.873313+00:00",
+  "snapshot_date": "2026-06-01T12:33:34.237580+00:00",
   "stages": {
     "appointmentscheduled": {
-      "count": 321,
+      "count": 411,
       "total_value": 20408588.64,
       "deal_ids": [
         "323682727634",
@@ -325,7 +325,97 @@
         "326809679575",
         "326809726656",
         "326678914798",
-        "326830330558"
+        "326830330558",
+        "326945813241",
+        "326942153408",
+        "326907840227",
+        "326951244537",
+        "326916955856",
+        "326945814202",
+        "326934958836",
+        "326896911082",
+        "326947610350",
+        "326832393966",
+        "326832393967",
+        "326951276246",
+        "326947619556",
+        "326918759124",
+        "326951276247",
+        "326918759126",
+        "326945824486",
+        "326922370798",
+        "326896921308",
+        "326916976347",
+        "326686131937",
+        "326964527854",
+        "326909666003",
+        "326940371674",
+        "326920577732",
+        "326679168737",
+        "326920577733",
+        "326623829740",
+        "326951280359",
+        "326951322345",
+        "326924175088",
+        "326922378976",
+        "326926055110",
+        "326949426896",
+        "326679168741",
+        "326953116367",
+        "326902456025",
+        "326667759336",
+        "326907854532",
+        "326947629757",
+        "326953138926",
+        "326909669060",
+        "326942176973",
+        "326931369667",
+        "326911457981",
+        "326918765304",
+        "326936775416",
+        "326920579798",
+        "326949428963",
+        "326953206472",
+        "326920579799",
+        "326953195234",
+        "326942176985",
+        "326936776385",
+        "326938578649",
+        "326916981460",
+        "326898727641",
+        "326947629774",
+        "326900521660",
+        "326653342416",
+        "326945835766",
+        "326976933572",
+        "327178171111",
+        "327269800668",
+        "327034403575",
+        "327269787374",
+        "327255403227",
+        "327269777122",
+        "326960425664",
+        "327183693549",
+        "327269800672",
+        "327178575578",
+        "327184029377",
+        "327349201644",
+        "327349394133",
+        "327315310288",
+        "327178575579",
+        "327082604248",
+        "327180500702",
+        "327349394136",
+        "327315310291",
+        "327362628308",
+        "327331691231",
+        "327312690927",
+        "327312690928",
+        "326960873173",
+        "327335543538",
+        "327066837745",
+        "327180564172",
+        "327362649844"
       ]
     }
   },
@@ -1934,8 +2024,458 @@
       "name": "Kloc & Co",
       "stage": "appointmentscheduled",
       "acv": 0.0
+    },
+    "326945813241": {
+      "name": "Ike & Cookie",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326942153408": {
+      "name": "ADLC Accounting and Multiservices",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326907840227": {
+      "name": "Nitya LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326951244537": {
+      "name": "Gross, Mendelsohn & Associates",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326916955856": {
+      "name": "Taurus CPA Solutions, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326945814202": {
+      "name": "Grant & Associates, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326934958836": {
+      "name": "King Sterward\u2019s Taxes and Accounitng Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326896911082": {
+      "name": "Triune Accounting Group, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326947610350": {
+      "name": "B & B Accounting Firm",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326832393966": {
+      "name": "Riedel-Hogan CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326832393967": {
+      "name": "Abacus!",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326951276246": {
+      "name": "Asamoa & Associates, CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326947619556": {
+      "name": "Amick & Company",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326918759124": {
+      "name": "The Edge Capital Bookkeeping Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326951276247": {
+      "name": "Harding, Shymanski & Company, P.S.C.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326918759126": {
+      "name": "Zenger & Young Tax Service",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326945824486": {
+      "name": "Welenken CPAs",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326922370798": {
+      "name": "Fit Money CPA Louisville Tax Advisory & Bookkeeping",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326896921308": {
+      "name": "Open Books Accounting & Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326916976347": {
+      "name": "JAH Financial Services & Real Estate LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326686131937": {
+      "name": "Accounting Connections",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326964527854": {
+      "name": "Sunrise Accounting & Taxation",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326909666003": {
+      "name": "Cowen Tax Advisory Group, Inc.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326940371674": {
+      "name": "KeyLin Advisors",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326920577732": {
+      "name": "Twin Cities Accounting and Tax",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326679168737": {
+      "name": "Sundberg Tax & Consulting (DT Mpls) | Small Business Tax | Accountant",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326920577733": {
+      "name": "Rocca CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326623829740": {
+      "name": "Monthend",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326951280359": {
+      "name": "SDK CPAs (Schechter Dokken Kanter)",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326951322345": {
+      "name": "Prudent Accountants",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326924175088": {
+      "name": "Morem & Waller, CPAs",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326922378976": {
+      "name": "Connecticut Accounting & Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326926055110": {
+      "name": "Henry Mensah CPA LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326949426896": {
+      "name": "Accountants CPA Hartford, Connecticut, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326679168741": {
+      "name": "Atheneum CFO",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326953116367": {
+      "name": "Noir Arise Accounting",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326902456025": {
+      "name": "R.J. Testo & Associates",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326667759336": {
+      "name": "Mascia Frank J CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326907854532": {
+      "name": "Laydon and Company, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326947629757": {
+      "name": "Rodney P Kaufman, CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326953138926": {
+      "name": "riskin & riskin",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326909669060": {
+      "name": "Shernow Thomas a CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326942176973": {
+      "name": "Spambanato Peter CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326931369667": {
+      "name": "RQ Professional Accounting & Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326911457981": {
+      "name": "The Innovative CPA Group, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326918765304": {
+      "name": "Whitten Horton & Gibney",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326936775416": {
+      "name": "R.J. Testo & Associates",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326920579798": {
+      "name": "Mascia Frank J CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326949428963": {
+      "name": "Laydon and Company, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326953206472": {
+      "name": "riskin & riskin",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326920579799": {
+      "name": "Spambanato Peter CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326953195234": {
+      "name": "Shernow Thomas a CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326942176985": {
+      "name": "Rodney P Kaufman, CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326936776385": {
+      "name": "RQ Professional Accounting & Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326938578649": {
+      "name": "The Innovative CPA Group, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326916981460": {
+      "name": "Whitten Horton & Gibney",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326898727641": {
+      "name": "R.J. Testo & Associates",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326947629774": {
+      "name": "Mascia Frank J CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326900521660": {
+      "name": "Laydon and Company, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326653342416": {
+      "name": "riskin & riskin",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326945835766": {
+      "name": "Spambanato Peter CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326976933572": {
+      "name": "Ann M. Irons, CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327178171111": {
+      "name": "RMJR Tax and Accounting",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327269800668": {
+      "name": "Definitive Accounting & Payroll",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327034403575": {
+      "name": "LP Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327269787374": {
+      "name": "LF ACCOUNTING SERVICES INC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327255403227": {
+      "name": "Hix & Cortese, P.C.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327269777122": {
+      "name": "Norton Bookkeeping, Inc.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326960425664": {
+      "name": "Avila Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327183693549": {
+      "name": "Gilpin CPA Inc",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327269800672": {
+      "name": "Orel & Associates CPAs Inc.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327178575578": {
+      "name": "Z&Z Accounting Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327184029377": {
+      "name": "Dimov Associates",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327349201644": {
+      "name": "Hajiani CPA LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327349394133": {
+      "name": "Anomaly CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327315310288": {
+      "name": "Simon CPAs",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327178575579": {
+      "name": "Tristan CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327082604248": {
+      "name": "Wolf & Company, P.C.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327180500702": {
+      "name": "Freedomfolio",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327349394136": {
+      "name": "Cohen & Associates, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327315310291": {
+      "name": "Caraballo CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327362628308": {
+      "name": "CP Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327331691231": {
+      "name": "Turner & Costa, P.C.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327312690927": {
+      "name": "Peter A Norton CPA PC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327312690928": {
+      "name": "DiDonato, Wronnau, Abel, & Company CPAs",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "326960873173": {
+      "name": "Everett Financial Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327335543538": {
+      "name": "Izza Accounting Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327066837745": {
+      "name": "John Harmon, CPA, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327180564172": {
+      "name": "The Financial and Tax Group Inc",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327362649844": {
+      "name": "DV Multiservices",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
     }
   },
-  "total_deals": 321,
+  "total_deals": 411,
   "total_value": 20408588.64
 }
