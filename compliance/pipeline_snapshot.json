@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-06-01T12:33:34.237580+00:00",
+  "snapshot_date": "2026-06-08T11:53:33.597050+00:00",
   "stages": {
     "appointmentscheduled": {
-      "count": 411,
+      "count": 498,
       "total_value": 20408588.64,
       "deal_ids": [
         "323682727634",
@@ -415,7 +415,94 @@
         "327335543538",
         "327066837745",
         "327180564172",
-        "327362649844"
+        "327362649844",
+        "327768379111",
+        "327764977350",
+        "327934422714",
+        "327884053204",
+        "327934422717",
+        "327891316465",
+        "327862546154",
+        "327741628146",
+        "327936214722",
+        "328631856849",
+        "328538055368",
+        "328558975679",
+        "328661575399",
+        "328685921006",
+        "328567832268",
+        "328541595341",
+        "328633717441",
+        "328534549236",
+        "328691320538",
+        "328538060533",
+        "328661584586",
+        "328705664713",
+        "328689523387",
+        "328661584589",
+        "328539817688",
+        "328567858926",
+        "328656270020",
+        "328661598955",
+        "328557244153",
+        "328689540843",
+        "328661598956",
+        "328716462787",
+        "328559003333",
+        "328705684208",
+        "328538078922",
+        "328551740113",
+        "328539836122",
+        "328693116664",
+        "328571509453",
+        "328723930833",
+        "328538087111",
+        "328539844334",
+        "328571509455",
+        "328685955797",
+        "328539844335",
+        "328631891679",
+        "328538087113",
+        "328588226297",
+        "328567871196",
+        "328581191360",
+        "328705694457",
+        "328709294833",
+        "328723932912",
+        "328709294834",
+        "328588230330",
+        "328656285375",
+        "328691357374",
+        "328564455140",
+        "328685960942",
+        "328534577890",
+        "328567875267",
+        "328553575133",
+        "328702116565",
+        "328528983795",
+        "328709300967",
+        "328633757379",
+        "328567883509",
+        "328553575136",
+        "328567883512",
+        "328564463310",
+        "328714707668",
+        "328588315342",
+        "328656390874",
+        "328571612919",
+        "328564574959",
+        "328720103124",
+        "328553678536",
+        "328566283974",
+        "328807047920",
+        "328828987084",
+        "328756860658",
+        "328735589067",
+        "328542111433",
+        "328807078610",
+        "328739053273",
+        "328535178945",
+        "328561172155"
       ]
     }
   },
@@ -2474,8 +2561,443 @@
       "name": "DV Multiservices",
       "stage": "appointmentscheduled",
       "acv": 0.0
+    },
+    "327768379111": {
+      "name": "Raymond Donald E CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327764977350": {
+      "name": "Borski Jr Joseph a CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327934422714": {
+      "name": "Tax Tyme",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327884053204": {
+      "name": "Piasecki C Richard CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327934422717": {
+      "name": "Tax Tyme",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327891316465": {
+      "name": "OverView Bookkeeping & Consulting LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327862546154": {
+      "name": "Webster Accountant",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327741628146": {
+      "name": "Professional Business Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "327936214722": {
+      "name": "Sam S Pappas",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328631856849": {
+      "name": "Mandel & Tracy, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328538055368": {
+      "name": "Edward M. Simpson, CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328558975679": {
+      "name": "Platinum Tax & Accounting Services LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328661575399": {
+      "name": "AccuBooks",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328685921006": {
+      "name": "Sansiveri, Kimball & Co., LLP",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328567832268": {
+      "name": "Global Accounting Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328541595341": {
+      "name": "DGM Multi Services LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328633717441": {
+      "name": "Charland, Marciano & Company, CPAs, LLP",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328534549236": {
+      "name": "Mandel & Tracy, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328691320538": {
+      "name": "Edward M. Simpson, CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328538060533": {
+      "name": "AccuBooks",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328661584586": {
+      "name": "DGM Multi Services LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328705664713": {
+      "name": "Charland, Marciano & Company, CPAs, LLP",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328689523387": {
+      "name": "Platinum Tax & Accounting Services LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328661584589": {
+      "name": "Sansiveri, Kimball & Co., LLP",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328539817688": {
+      "name": "Global Accounting Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328567858926": {
+      "name": "Sam S Pappas",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328656270020": {
+      "name": "Raymond Donald E CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328661598955": {
+      "name": "Borski Jr Joseph a CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328557244153": {
+      "name": "Piasecki C Richard CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328689540843": {
+      "name": "Tax Tyme",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328661598956": {
+      "name": "Professional Business Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328716462787": {
+      "name": "Tax Tyme",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328559003333": {
+      "name": "Sam S Pappas",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328705684208": {
+      "name": "Raymond Donald E CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328538078922": {
+      "name": "Borski Jr Joseph a CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328551740113": {
+      "name": "Piasecki C Richard CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328539836122": {
+      "name": "Professional Business Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328693116664": {
+      "name": "Accounting Solutions, Inc",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328571509453": {
+      "name": "Infinity Tax & Business Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328723930833": {
+      "name": "Donohue's Tax Service",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328538087111": {
+      "name": "Strategic Accounting and Tax Service - Tax Accountant Worcester, MA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328539844334": {
+      "name": "James A. O'Malley CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328571509455": {
+      "name": "Worcester Bookkeeping Company",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328685955797": {
+      "name": "Adam M. Beaudry, CPA, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328539844335": {
+      "name": "Tax Express Group",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328631891679": {
+      "name": "Bisceglia, Steiman & Fudeman, LLP",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328538087113": {
+      "name": "DISTINCTIVE ACCOUNTING SERVICES",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328588226297": {
+      "name": "O'Connor Maloney & Co PC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328567871196": {
+      "name": "Forefront Business Solutions (FBS Accounting)",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328581191360": {
+      "name": "Infinity Tax & Business Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328705694457": {
+      "name": "Accounting Solutions, Inc",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328709294833": {
+      "name": "Donohue's Tax Service",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328723932912": {
+      "name": "Strategic Accounting and Tax Service - Tax Accountant Worcester, MA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328709294834": {
+      "name": "James A. O'Malley CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328588230330": {
+      "name": "Worcester Bookkeeping Company",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328656285375": {
+      "name": "DISTINCTIVE ACCOUNTING SERVICES",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328691357374": {
+      "name": "Adam M. Beaudry, CPA, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328564455140": {
+      "name": "Tax Express Group",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328685960942": {
+      "name": "Bisceglia, Steiman & Fudeman, LLP",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328534577890": {
+      "name": "O'Connor Maloney & Co PC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328567875267": {
+      "name": "Forefront Business Solutions (FBS Accounting)",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328553575133": {
+      "name": "Time Value Accounting & Advisory Services, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328702116565": {
+      "name": "Nichols Bookkeeping & Tax Services",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328528983795": {
+      "name": "income tax and accounting services llc",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328709300967": {
+      "name": "DMJPS PLLC - Durham, NC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328633757379": {
+      "name": "Accurate Tax",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328567883509": {
+      "name": "Chris Arena, CPA, PLLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328553575136": {
+      "name": "Lipkin CPA, PLLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328567883512": {
+      "name": "Nelson & Company PA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328564463310": {
+      "name": "Peggy James, CPA, PLLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328714707668": {
+      "name": "Paul Scheible, CPA, PLLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328588315342": {
+      "name": "Tara's Bookkeeping Service",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328656390874": {
+      "name": "Marini Anthony a CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328571612919": {
+      "name": "Rhee + Co. - David Y Rhee,, CPA, CFP(R), EA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328564574959": {
+      "name": "Ledge Accounting",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328720103124": {
+      "name": "Kelly CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328553678536": {
+      "name": "Elite Bookkeeping Solutions",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328566283974": {
+      "name": "Buck Stops Here Accounting, Inc.",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328807047920": {
+      "name": "Anomaly CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328828987084": {
+      "name": "Anomaly CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328756860658": {
+      "name": "Caraballo CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328735589067": {
+      "name": "Caraballo CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328542111433": {
+      "name": "Caraballo CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328807078610": {
+      "name": "Carter & Company Accounting Firm Dallas CPA",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328739053273": {
+      "name": "Dimov Associates",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328535178945": {
+      "name": "Cohen & Associates, LLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
+    },
+    "328561172155": {
+      "name": "s-corp.biz",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
     }
   },
-  "total_deals": 411,
+  "total_deals": 498,
   "total_value": 20408588.64
 }
