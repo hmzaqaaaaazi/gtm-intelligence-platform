@@ -1,8 +1,8 @@
 {
-  "snapshot_date": "2026-06-08T11:53:33.597050+00:00",
+  "snapshot_date": "2026-06-15T13:09:57.570953+00:00",
   "stages": {
     "appointmentscheduled": {
-      "count": 498,
+      "count": 499,
       "total_value": 20408588.64,
       "deal_ids": [
         "323682727634",
@@ -502,7 +502,8 @@
         "328807078610",
         "328739053273",
         "328535178945",
-        "328561172155"
+        "328561172155",
+        "329026728691"
       ]
     }
   },
@@ -2996,8 +2997,13 @@
       "name": "s-corp.biz",
       "stage": "appointmentscheduled",
       "acv": 0.0
+    },
+    "329026728691": {
+      "name": "LUO CPA PLLC",
+      "stage": "appointmentscheduled",
+      "acv": 0.0
     }
   },
-  "total_deals": 498,
+  "total_deals": 499,
   "total_value": 20408588.64
 }
